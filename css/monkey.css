@@ -13,7 +13,7 @@ html {
 @media screen and (max-width: 1170px) and (min-width: 406px){
   #monkey{
     top: 1px;
-    right: 100px;
+    right: 5px;
     
   }
 }
